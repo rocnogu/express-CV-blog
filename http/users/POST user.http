@@ -1,0 +1,31 @@
+
+
+
+
+
+
+POST http://localhost:6969/users/register
+Content-Type: application/json
+
+{
+    "User_First_Name": "firstname",
+    "User_Last_Name": "lastname",
+    "User_Name": "testuser1",
+    "User_Password": "test123",
+    "User_Email": "test@test.bg",
+    "User_Avatar": "https://test.bg/test.jpg",
+    "User_Location": "test",
+    "User_Website": "https://test.test/",
+    "User_Gender": "test",
+    "User_Bio": "test",
+    "User_Age": 22
+}   
+
+
+
+
+
+
+
+
+    

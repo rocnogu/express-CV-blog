@@ -1,0 +1,17 @@
+
+
+
+POST http://localhost:6969/recipes
+Content-Type: application/json
+
+{
+    "Recipe_Title": "BBQ Meatball and Mozzarella Sub",
+    "Recipe_Difficulty": "Easy",
+    "Recipe_Preparation_Time": 4,
+    "Recipe_Cooking_Time": 11,
+    "Recipe_Serves": 33,
+    "Recipe_Ingredients": ["350g minced beef (15% fat)","150g sausage meat","2 sprigs rosemary, finely chopped","1 tsp onion powder","1 tsp garlic powder","30g parmesan cheese, finely","20g dried breadcrumbs","2 tbsp milk","Salt and freshly ground pepper","400ml passata","100ml BBQ sauce"],
+    "Recipe_Method": ["1. Place all the ingredients for the meatballs into a mixing bowl. Season the mixture well and mix the meat with your hands for a few minutes. ","2. Then divide the mixture into 16 even sized balls. Place these balls on a tray and set aside in the fridge to cool. ","3. Meanwhile place the olive oil into a shallow sauté pan and place pan onto a hot BBQ. ","4. Add the garlic and stir well for 2 minutes. Add the passata, BBQ sauce, water, and chilli flakes. Stir well and cook for 10 minutes. "],
+    "Recipe_Tags": ["Chicken", "Powerbowl"],
+    "created_by": "6140a9a7606c8058f7ecbf93"
+}

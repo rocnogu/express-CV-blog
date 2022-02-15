@@ -1,0 +1,27 @@
+
+
+
+POST http://localhost:6969/recipes
+Content-Type: application/json
+
+{
+    "Recipe_Title": "Chicken",
+    "Recipe_Difficulty": "Easy",
+    "Recipe_Preparation_Time": 4,
+    "Recipe_Cooking_Time": 11,
+    "Recipe_Serves": 33,
+    "Recipe_Ingredients": ["400g","200g","200g","100g","coriander","80g","Juice","160g","160g","40g","pepper"],
+    "Recipe_Method": ["combine","Arrange","Squeeze","Serve"],
+    "Recipe_Tags": ["Chicken", "Powerbowl"],
+    "created_by": "6140a9a7606c8058f7ecbf93"
+}   
+
+
+
+
+
+
+
+
+
+    

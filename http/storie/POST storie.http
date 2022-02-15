@@ -1,0 +1,29 @@
+
+
+
+
+
+
+POST http://localhost:6969/stories
+Content-Type: application/json
+
+{
+    "Storie_Picture": "StoriesPictures url",
+    "Storie_Title": "Stories_Title",
+    "Storie_Video": "Stories_Video url",
+    "Storie_Text": "Stories_Text",
+    "Storie_Sub_Title": "Stories_Sub_Title",
+    "Storie_Tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7"
+                    ,"tag8","tag9","tag10","tag11","tag12"],
+    "Storie_Tags": ["Chicken", "Powerbowl"],
+    "created_by": "6140a9a7606c8058f7ecbf93"
+}   
+
+
+
+
+
+
+
+
+    
